@@ -41,7 +41,8 @@ public class ArrayListDemo {
         arrayList2.add(12);
         arrayList2.add(23);
 
-        //  Now this is restricted to be inserted,
+        //  Now this is restricted to be inserted with
+        //  non string values,
         //  as it gives run time error
         //  arrayList2.add("jhjhjk");
     }
