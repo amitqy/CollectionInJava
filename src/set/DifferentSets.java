@@ -1,9 +1,6 @@
 package set;
 
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Random;
-import java.util.TreeSet;
+import java.util.*;
 
 public class DifferentSets {
 
@@ -12,11 +9,11 @@ public class DifferentSets {
         // Task: Generate random numbers and insert them in hashset
         Random obj = new Random();
         HashSet<Integer> set = new HashSet();
-        LinkedList<Integer> linkedSet = new LinkedList<>();
         TreeSet<Integer> treeSet = new TreeSet<>();
 
         System.out.println("Order of Insertion");
-        for(int i = 0;i < 5; i++){
+        LinkedHashSet<Integer> linkedSet = new LinkedHashSet<>();
+        for(int i = 0; i < 5; i++){
              int number = obj.nextInt(100);
              set.add(number);
              linkedSet.add(number);
