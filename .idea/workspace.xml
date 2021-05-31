@@ -29,7 +29,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.StringTreeSet">
+  <component name="RunManager" selected="Application.DifferentSets">
     <configuration name="DifferentSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.DifferentSets" />
       <module name="Collections" />
@@ -108,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DifferentSets" />
         <item itemvalue="Application.StringTreeSet" />
         <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.DifferentSets" />
         <item itemvalue="Application.HashSetDemo" />
         <item itemvalue="Application.RandomDemo" />
       </list>
@@ -128,7 +128,9 @@
       <workItem from="1621920595262" duration="156000" />
       <workItem from="1621920790652" duration="2732000" />
       <workItem from="1621933731585" duration="208000" />
-      <workItem from="1621951803485" duration="614000" />
+      <workItem from="1621951803485" duration="1241000" />
+      <workItem from="1622023749007" duration="12000" />
+      <workItem from="1622450396329" duration="905000" />
     </task>
     <servers />
   </component>
