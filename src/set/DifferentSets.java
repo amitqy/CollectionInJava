@@ -23,7 +23,7 @@ public class DifferentSets {
         System.out.println();
         // Notice that the HashSet does not maintain the order of insertions
         System.out.println("HashSet elements: " + set);
-        // Notice that the HashSet maintains the order of insertions
+        // Notice that the LinkedHashSet maintains the order of insertions
         System.out.println("LinkedHashSet elements: " + linkedSet);
         // Notice that the treeSet sorts the elements while they are
         // inserted in ascending order
