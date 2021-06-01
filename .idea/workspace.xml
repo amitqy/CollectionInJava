@@ -32,13 +32,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.StringComparatorSortsByLength">
-    <configuration name="DifferentSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.DifferentSets" />
+  <component name="RunManager" selected="Application.IdentityHashMapDemo">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortingObjects.Employee" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="sortingObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ListIteratorDemo" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maps.HashMapDemo" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.StringBufferTreeSet" />
+    <configuration name="IdentityHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maps.IdentityHashMapDemo" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparatorSortsByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.StringComparatorSortsByLength" />
+    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maps.LinkedHashMapDemo" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.StringTreeSet" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortingObjects.Test" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="sortingObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringComparatorSortsByLength" />
-        <item itemvalue="Application.StringBufferTreeSet" />
-        <item itemvalue="Application.ListIteratorDemo" />
-        <item itemvalue="Application.DifferentSets" />
-        <item itemvalue="Application.StringTreeSet" />
+        <item itemvalue="Application.IdentityHashMapDemo" />
+        <item itemvalue="Application.LinkedHashMapDemo" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,9 @@
       <workItem from="1621951803485" duration="1241000" />
       <workItem from="1622023749007" duration="12000" />
       <workItem from="1622450396329" duration="905000" />
-      <workItem from="1622458912804" duration="3062000" />
+      <workItem from="1622458912804" duration="5923000" />
+      <workItem from="1622524234455" duration="1992000" />
+      <workItem from="1622530839852" duration="771000" />
     </task>
     <servers />
   </component>
